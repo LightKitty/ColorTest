@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorTest", "ColorTest\ColorTest.csproj", "{BA1077CE-51A2-41A5-81CE-8B0B3B26556C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA1077CE-51A2-41A5-81CE-8B0B3B26556C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA1077CE-51A2-41A5-81CE-8B0B3B26556C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA1077CE-51A2-41A5-81CE-8B0B3B26556C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA1077CE-51A2-41A5-81CE-8B0B3B26556C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
